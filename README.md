@@ -1,5 +1,5 @@
 # myRex
-A 3D model made with Maya(this is Rex from Hideo Kojima's game Metal Gear Solid[wiki]https://en.wikipedia.org/wiki/Metal_Gear_(weapon)).
+A 3D model made with Maya. This is Rex from Hideo Kojima's game Metal Gear Solid. Visit https://en.wikipedia.org/wiki/Metal_Gear_(weapon) for more information.
 ## Without Texture
 ![Image of Rex(w/o texture)](./final_1.jpg)
 ## With Texture
